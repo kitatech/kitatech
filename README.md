@@ -2,29 +2,15 @@
 
 Selamat datang di Repositori KITA Tech Solution! 🚀
 
-## Tentang Kami
-
 KITA Tech Solution adalah kelompok inovatif yang berkomitmen untuk menciptakan solusi teknologi terdepan. Dengan fokus utama pada pengembangan perangkat lunak, kami menyatukan keahlian dan kreativitas untuk menghadirkan solusi yang dapat mengubah dunia.
 
-## Visi dan Misi
-
-### Visi
-Menjadi pionir dalam menciptakan solusi teknologi yang memudahkan kehidupan sehari-hari.
-
-### Misi
-1. Menciptakan perangkat lunak inovatif yang memberikan nilai tambah bagi pengguna.
-2. Mengembangkan lingkungan kerja yang memotivasi dan mendukung kreativitas.
-
 ## Proyek Utama
+Kami bangga mempersembahkan proyek kami, dengan memanfaatkan teknologi terkini. KITA berkomitmen untuk memberikan solusi yang efisien dan dapat diandalkan.
 
-### [Nama Proyek]
-
-Kami bangga mempersembahkan proyek terbaru kami, [Nama Proyek]. Proyek ini bertujuan untuk [jelaskan tujuan utama proyek]. Dengan memanfaatkan teknologi terkini, kami berkomitmen untuk memberikan solusi yang efisien dan dapat diandalkan.
-
-**Fitur Utama:**
-- [Fitur 1]
-- [Fitur 2]
-- [Fitur 3]
+**SIAALMADINAH (Sistem Informasi Akademik Almadinah)**
+- [Eraport] (Kurikulum 2013)
+- [Raport Pancasila] (Kurikulum Merdeka)
+- [Penilaian Tahfidz]
 
 ## Bagaimana Berkontribusi
 
@@ -36,13 +22,13 @@ Kami mengundang semua orang untuk berkontribusi dalam pengembangan proyek kami. 
 2. **Klon Repositori**
    - Lakukan clone repositori ke komputer lokal Anda.
      ```
-     git clone https://github.com/username/KITA-tech-solution.git
+     git clone https://github.com/kitatech/nama-repository-KITA.git
      ```
 
 3. **Buat Cabang (Branch)**
    - Buat cabang baru untuk bekerja pada fitur atau perbaikan tertentu.
      ```
-     git checkout -b fitur-anda
+     git checkout -b feature/nama-branch
      ```
 
 4. **Lakukan Perubahan**
@@ -54,7 +40,7 @@ Kami mengundang semua orang untuk berkontribusi dalam pengembangan proyek kami. 
 5. **Push ke Repositori**
    - Push perubahan ke cabang Anda di repositori GitHub.
      ```
-     git push origin fitur-anda
+     git push origin nama-branch
      ```
 
 6. **Buka Pull Request**
